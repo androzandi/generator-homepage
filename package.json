@@ -1,0 +1,39 @@
+{
+  "name": "generator-homepage",
+  "version": "1.0.0",
+  "description": "homepage generator for online store with Angular components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/androzandi/generator-homepage.git"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "angular",
+    "component",
+    "javascript",
+    "builder",
+    "scaffold",
+    "generator",
+    "homepage",
+    "chalk",
+    "mkdirp",
+    "semver",
+    "loadash"
+  ],
+  "author": "andi <dayandroz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/androzandi/generator-homepage/issues"
+  },
+  "homepage": "https://github.com/androzandi/generator-homepage#readme",
+  "dependencies": {
+    "yeoman-generator": "^3.2.0"
+  },
+  "files": [
+    "app"
+  ]
+}
